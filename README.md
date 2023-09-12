@@ -60,4 +60,4 @@ Watch this video to see the key features of our project in action.
 
 
 
-Thank you for checking out the Youtube Clone project! If you have any questions or need assistance, feel free to reach out to us.
+Thank you for checking out the Youtube Clone project! If you have any questions or need assistance, feel free to reach out to me.
