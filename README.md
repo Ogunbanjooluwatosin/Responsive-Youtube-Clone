@@ -52,7 +52,7 @@ The project is complete and functional, serving as an educational exercise for w
 ![playvideo.html2](https://drive.google.com/uc?export=download&id=//1leLAIMAA28LhSq6ur2I9xx5eX7b46MD2)
 
 **Project Demo Video**
-[![LinkedIn Project Video](https://drive.google.com/file/d/1rp2purWLQbKb4hUxbv1raai-qK_M24QS/preview)](https://drive.google.com/file/d/1rp2purWLQbKb4hUxbv1raai-qK_M24QS/preview)
+[![LinkedIn Project Video](https://drive.google.com/file/d/1rp2purWLQbKb4hUxbv1raai-qK_M24QS/preview)](https://drive.google.com/file/d/1rp2purWLQbKb4hUxbv1raai-qK_M24QS/preview
 
 Watch this video to see the key features of our project in action.
 
